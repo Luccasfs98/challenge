@@ -1,0 +1,4 @@
+include ':features:contact'
+include ':core'
+include ':commons'
+include ':app'

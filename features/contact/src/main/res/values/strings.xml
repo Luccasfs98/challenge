@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="contact_list_label">Contatos</string>
+    <string name="text_error_title">Ops, erro inesperado!</string>
+    <string name="try_again">Tentar novamente</string>
+    <string name="something_wrong">Ops, algo deu errado!</string>
+    <string name="error_internet_not_available">Não foi possível buscar os seus contatos, por favor verifique sua conexão com a internet e tente novamente.</string>
+    <string name="not_found_error">Estamos com problemas em nosso servidor, por favor tente novamente mais tarde.</string>
+    <string name="unauthorized_error">Precisamos da sua autenticação para consultar os contatos, por favor realize o login e tente novamente.</string>
+    <string name="unknown_error">Erro desconhecido, por favor tente novamente mais tarde.</string>
+    <string name="service_unavailable_error">Serviço temporariamente indisponivel, por favor tente novamente mais tarde.</string>
+    <string name="empty_list_message">Experimente adicionar novos contatos!.</string>
+    <string name="empty_list_title">Sua lista de contatos está vazia.</string>
+</resources>
